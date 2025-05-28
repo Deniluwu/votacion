@@ -1,0 +1,32 @@
+body {
+  padding-top: 70px;
+}
+
+#candidatosContainer img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.card-candidato {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+#grafico {
+  margin-top: 20px;
+}
+
+.barra {
+  height: 20px;
+  background-color: #007bff;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  color: white;
+  text-align: right;
+  padding-right: 5px;
+}
